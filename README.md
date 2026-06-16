@@ -37,6 +37,18 @@
 
 ---
 
+### 🛡️ ROS2-based intelligent collaborative explosive disposal robot system
+**ROS2 기반 지능형 협업 폭발물 해체 로봇 시스템**
+
+- **주요 기능**: YOLO 모델을 활용한 폭발물이 담긴 상자 탐지 및 폭발물 종류 탐지, 모방학습을 통한 상자 개방, ROS2 기반 자율주행
+- **기술 스택**: `Python`, `ROS2`, `YOLO26`, `OpenCV`, `C`
+- **담당 역할**: 상황별 데이터셋 구축, 모방학습, 객체 탐지 모델 최적화 및 로봇 제어 시스템 개발
+- **성과**: 흠...
+
+[📂 프로젝트 상세 보기](https://github.com/haha-hari/프로젝트레포이름)
+
+---
+
 ### 🛡️ Real-time Behavior Analysis Response Robot
 **도심 내 위험 상황 탐지 및 대응을 위한 지능형 로봇 시스템**
 
