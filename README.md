@@ -45,7 +45,7 @@
 - **담당 역할**: 상황별 데이터셋 구축, 모방학습, 객체 탐지 모델 최적화 및 로봇 제어 시스템 개발
 - **성과**: 흠...
 
-[📂 프로젝트 상세 보기](https://github.com/haha-hari/프로젝트레포이름)
+[📂 프로젝트 상세 보기](https://github.com/cheeserust/ROScue)
 
 ---
 
@@ -81,7 +81,7 @@
 - **담당 역할**: 이미지 데이터 기반 유연성 분석 알고리즘 설계 및 검증
 - **성과**: KWIX 공학 경진대회 참여 및 캡스톤 디자인 프로젝트 수행
 
-[📂 프로젝트 상세 보기](https://github.com/haha-hari/프로젝트레포이름)
+[📂 프로젝트 상세 보기](https://youtu.be/ccs86mOE48M)
 
 ---
 
@@ -92,7 +92,7 @@
 - **기술 스택**: `C`, `Embedded C`, `Sensor Integration`, `Motor Control`
 - **담당 역할**: 한이음 ICT 멘토링 프로젝트, 분류 로직 및 모터 제어 시스템 설계
 
-[📂 프로젝트 상세 보기](https://github.com/haha-hari/프로젝트레포이름)---
+[📂 프로젝트 상세 보기](https://youtu.be/hUojgiDSZ64)---
 
 ### 📊 My GitHub Stats
 <p align="center">
