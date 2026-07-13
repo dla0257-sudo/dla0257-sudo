@@ -57,7 +57,7 @@
 - **담당 역할**: 상황별 데이터셋 구축, 객체 탐지 모델 최적화 및 로봇 제어 시스템 통합
 - **성과**: 실시간 영상 스트리밍 기반 90% 이상의 상황 탐지 정확도 달성
 
-[📂 프로젝트 상세 보기](https://github.com/haha-hari/프로젝트레포이름)
+[📂 프로젝트 상세 보기](https://github.com/haha-hari/Real-Time_Behavior_Analysis_based_Response_Robot)
 
 ---
 
