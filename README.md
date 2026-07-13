@@ -70,8 +70,6 @@
 
 # 📂 Major Projects
 
-## 🚀 Featured Projects
-
 ---
 
 ### 🛡️ ROS2-based Intelligent Collaborative Explosive Disposal Robot System
