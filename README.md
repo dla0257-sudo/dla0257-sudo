@@ -159,6 +159,42 @@
 
 ---
 
+### 🔊 Ultra-Directional Speaker
+**링 변조 기반 초지향성 스피커**
+
+- **주요 기능**: 오디오 신호를 40kHz 초음파 반송파와 변조하고, 트랜스듀서 배열을 통해 특정 방향으로만 소리를 전달
+- **기술 스택**: `Analog Circuit`, `40kHz Oscillator`, `Ring Modulation`, `AD633`, `TL052`, `LM675`, `PCB Design`
+- **담당 역할**: 초지향성 음향 원리 조사, 오디오 전치 증폭·변조·전력 증폭 회로 구성, 트랜스듀서 배열 및 PCB 제작
+- **성과**: 40kHz 반송파와 오디오 신호의 링 변조를 구현하고, 초음파 트랜스듀서 배열을 이용한 지향성 음향 출력 확인
+
+[📂 프로젝트 상세 보기](https://youtu.be/L5MzAWCfRps)
+
+---
+
+### 🎧 Active Noise-Cancelling Headphones
+**아날로그 회로 기반 노이즈 캔슬링 헤드폰**
+
+- **주요 기능**: 외부 소음을 마이크로 입력받아 위상이 반대인 신호를 생성하고, 원래 소음과 합성하여 주변 소음을 감쇠
+- **기술 스택**: `Analog Circuit`, `Op-Amp`, `Phase Inversion`, `Audio Amplifier`, `Filter Circuit`, `Oscilloscope`
+- **담당 역할**: 노이즈 캔슬링 원리 조사, 소음 입력·위상 반전·증폭 회로 구성, 오실로스코프 기반 입출력 파형 검증
+- **성과**: 외부 소음과 역위상 신호의 상쇄 원리를 아날로그 회로로 구현하고, 회로 단계별 파형 측정을 통해 동작 검증
+
+[📂 프로젝트 상세 보기](https://youtube.com/shorts/MVQAq01jJAo?feature=share)
+
+---
+
+### 🎹 NE555-based Polyphonic Synthesizer
+**화음 연주가 가능한 NE555 기반 신디사이저**
+
+- **주요 기능**: 건반별 NE555 발진 회로로 서로 다른 음의 주파수를 생성하고, 여러 출력을 합성하여 화음 연주
+- **기술 스택**: `NE555`, `LM324`, `LM386`, `Active LPF`, `Analog Circuit`, `Oscilloscope`, `PCB Soldering`
+- **담당 역할**: 음계별 발진 주파수 설계, 다중 발진 회로 출력 합성, 능동형 저역통과필터 및 스피커 증폭 회로 제작
+- **성과**: 여러 건반을 동시에 입력할 수 있는 화음 연주 구조를 구현하고, LPF를 적용해 사각파의 고주파 배음과 출력 왜곡을 완화
+
+[📂 프로젝트 상세 보기](https://youtu.be/4UCCIL0d1V8)
+
+---
+
 ### 🧠 Robot Log Diagnostic LLM Assistant
 **로봇 시스템 로그 이상탐지 및 원인분석 LLM 어시스턴트**
 
